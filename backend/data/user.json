@@ -1,0 +1,3 @@
+{"_id":{"$oid":"671e0166eed5dc448afe6911"},"username":"yamada taro","email":"yamada@example.com","password":"123456","created_at":{"$date":"2024-10-27T09:01:26.588Z"},"likedProducts":[]}
+{"_id":{"$oid":"671e02fbeed5dc448afe6915"},"username":"suzuki ziro","email":"suzuki@example.com","password":"123456","created_at":{"$date":"2024-10-27T09:08:11.725Z"},"likedProducts":[]}
+{"_id":{"$oid":"671e032beed5dc448afe6916"},"username":"sato hanako","email":"sato@example.com","password":"123456","created_at":{"$date":"2024-10-27T09:08:59.276Z"},"likedProducts":[]}
